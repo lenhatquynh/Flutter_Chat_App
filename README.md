@@ -1,6 +1,6 @@
 # gotechjsc_app
 
-A new Flutter project.
+A Flutter project about realtime chat application basic.
 
 ## Getting Started
 

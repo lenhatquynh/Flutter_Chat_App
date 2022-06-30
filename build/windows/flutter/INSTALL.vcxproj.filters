@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Work\GotechChatApp\gotechjsc_app\build\windows\CMakeFiles\927a835146b5239579ca5bdb7e061f6f\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C49708DB-2D4A-3B68-84F4-9DEBF92C3582}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "309468156240",
+    "project_id": "gotechjsc-app",
+    "storage_bucket": "gotechjsc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309468156240:android:b85c9bd4c7fac080e61c55",
+        "android_client_info": {
+          "package_name": "com.example.gotechjsc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309468156240-ktdt4ad98gnn5qsfkmvfr6ge6q3ra5e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gotechjsc_app",
+            "certificate_hash": "d5f2e85128f049dee47f63350c4c776e167483a2"
+          }
+        },
+        {
+          "client_id": "309468156240-m05e9t0767b8r626auf1csta6cctua1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXm4ZUhexgRA7HSSy26RY3DQ7IdT6NtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309468156240-m05e9t0767b8r626auf1csta6cctua1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

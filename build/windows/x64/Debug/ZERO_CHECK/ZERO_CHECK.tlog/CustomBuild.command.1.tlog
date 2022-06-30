@@ -1,0 +1,10 @@
+^D:\WORK\GOTECHCHATAPP\GOTECHJSC_APP\BUILD\WINDOWS\CMAKEFILES\31D9BA92355B89649D07DB6176978A85\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Work/GotechChatApp/gotechjsc_app/windows -BD:/Work/GotechChatApp/gotechjsc_app/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Work/GotechChatApp/gotechjsc_app/build/windows/gotechjsc_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

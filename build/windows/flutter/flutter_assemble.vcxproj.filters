@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Work\GotechChatApp\gotechjsc_app\build\windows\CMakeFiles\3a0c4e4d4ecf8e36a686fd6cae3d9883\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Work\GotechChatApp\gotechjsc_app\build\windows\CMakeFiles\927a835146b5239579ca5bdb7e061f6f\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Work\GotechChatApp\gotechjsc_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Work\GotechChatApp\gotechjsc_app\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C49708DB-2D4A-3B68-84F4-9DEBF92C3582}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
